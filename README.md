@@ -18,7 +18,7 @@ This TextUtild App is based on *MERN Technology*
   
   This will start the app on *localhost:3000*.  
   
-Now you can use TextUtild App  
+Now you can use TextUtils App  
   
   
 SCREENSHOTS folder is provided with the working screenshots of TextUtils App  for the output reference.
